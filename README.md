@@ -44,5 +44,4 @@ Built using **Tableau**:
 - Suicidal Thoughts Distribution
 - Financial Stress Analysis
 
-> 📎 [View Tableau Dashboard](#) *([Link to your Tableau Public dashboard if published](https://public.tableau.com/app/profile/kartik.trisal/viz/StudentDepressionAnalysis_17475313145520/StudentDepressionAnalysis?publish=yes))*
-
+> 📎 [View Tableau Dashboard](https://public.tableau.com/app/profile/kartik.trisal/viz/StudentDepressionAnalysis_17475313145520/StudentDepressionAnalysis?publish=yes)
